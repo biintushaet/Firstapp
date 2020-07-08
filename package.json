@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biintushaet/Firstapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biintushaet/Firstapp/issues"
+  },
+  "homepage": "https://github.com/biintushaet/Firstapp#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
